@@ -249,9 +249,9 @@
 246	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	864	nsubj	_	words@ns1991m#@ns1991m#1234.721#1235.072
 247	поехал	поехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	74	conj	_	words@ns1991m#@ns1991m#1235.072#1235.423
 248	ребят	ребята	NOUN	_	Animacy=Anim|Case=Voc|Gender=Neut|Number=Plur	848	obj	_	words@ns1991m#@ns1991m#1235.423#1235.774
-249	да	да	INTJ	_	_	616	cc	_	words@ns1991m#@ns1991m#1238.791#1238.989
-250	да	да	INTJ	_	_	253	cc	_	words@ns1991m#@ns1991m#1238.989#1239.187
-251	да	да	INTJ	_	_	253	cc	_	words@ns1991m#@ns1991m#1239.187#1239.386
+249	да	да	PART	_	_	616	cc	_	words@ns1991m#@ns1991m#1238.791#1238.989
+250	да	да	PART	_	_	253	cc	_	words@ns1991m#@ns1991m#1238.989#1239.187
+251	да	да	PART	_	_	253	cc	_	words@ns1991m#@ns1991m#1239.187#1239.386
 252	о	о	INTJ	_	_	253	case	_	words@ns1991m#@ns1991m#1240.878#1241.292
 253	Господи	Господь	INTJ	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	408	conj	_	words@ns1991m#@ns1991m#1241.292#1241.706
 254	/	/	PUNCT	_	_	256	punct	_	words@ns1991m#@ns1991m#1241.706#1242.12
@@ -273,7 +273,7 @@
 270	справа	справа	ADV	_	Degree=Pos	902	advmod	_	words@ns1991m#@ns1991m#1249.773#1250.034
 271	или	или	CCONJ	_	_	272	cc	_	words@ns1991m#@ns1991m#1250.034#1250.295
 272	э	э	INTJ	_	_	893	conj	_	words@ns1991m#@ns1991m#1250.295#1250.561
-273	да	да	CCONJ	_	_	931	cc	_	words@ns1991m#@ns1991m#1251.636#1251.77
+273	да	да	PART	_	_	931	cc	_	words@ns1991m#@ns1991m#1251.636#1251.77
 274	да	да	PART	_	_	931	advmod	_	words@ns1991m#@ns1991m#1251.77#1251.904
 275	да	да	PART	_	_	384	fixed	_	words@ns1991m#@ns1991m#1251.904#1252.038
 276	/	/	PUNCT	_	_	282	punct	_	words@ns1991m#@ns1991m#1252.038#1252.172
@@ -449,9 +449,9 @@
 446	даа	да	INTJ	_	_	352	conj	_	words@ns1991m#@ns1991m#1312.626#1312.794
 447	/	/	PUNCT	_	_	410	punct	_	words@ns1991m#@ns1991m#1312.794#1312.962
 448	/	/	PUNCT	_	_	573	punct	_	words@ns1991m#@ns1991m#1312.962#1313.132
-449	не	не	INTJ	_	_	451	advmod	_	words@ns1991m#@ns1991m#1317.96#1318.082
-450	не	не	INTJ	_	_	813	advmod	_	words@ns1991m#@ns1991m#1318.082#1318.204
-451	не	не	INTJ	_	_	327	advmod	_	words@ns1991m#@ns1991m#1318.204#1318.326
+449	не	не	PART	_	_	451	advmod	_	words@ns1991m#@ns1991m#1317.96#1318.082
+450	не	не	PART	_	_	813	advmod	_	words@ns1991m#@ns1991m#1318.082#1318.204
+451	не	не	PART	_	_	327	advmod	_	words@ns1991m#@ns1991m#1318.204#1318.326
 452	/	/	PUNCT	_	_	327	punct	_	words@ns1991m#@ns1991m#1318.326#1318.448
 453	/	/	PUNCT	_	_	327	punct	_	words@ns1991m#@ns1991m#1318.448#1318.574
 454	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	327	conj	_	words@ns1991m#@ns1991m#1326.764#1326.953
